@@ -11,5 +11,4 @@
  
  # TODO
  1. [Rubric for ML Production Systems] (https://www.eecs.tufts.edu/~dsculley/papers/ml_test_score.pdf)
- 2. [
  
